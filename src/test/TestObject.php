@@ -7,5 +7,5 @@ use MGO\obj\BaseObject;
 
 class TestObject extends BaseObject
 {
-    
+    public $property;
 }
