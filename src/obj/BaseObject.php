@@ -1,6 +1,6 @@
 <?php
 
-namespace obj;
+namespace phpmango\obj;
 
 class BaseObject
 {
