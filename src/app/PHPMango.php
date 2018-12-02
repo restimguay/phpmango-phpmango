@@ -1,6 +1,6 @@
 <?php
 
-namespace app;
+namespace MGO\app;
 
 class PHPMango
 {
