@@ -8,7 +8,7 @@ class PHPMango
     {
         
     }
-    public static function start(){
+    public static function start($basePath = ''){
         echo 'started';
     }
 }
